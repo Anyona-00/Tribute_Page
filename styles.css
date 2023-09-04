@@ -1,0 +1,104 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+      scroll-behavior: smooth;
+    }
+  }
+
+
+#image{
+    display: block;
+    max-width:100%;
+    height:auto;
+    align-items: center;
+  border-radius: 300px;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+
+.head{
+    background-color: rgb(22, 22, 22);
+    display: block;
+    color: rgb(247, 247, 247);
+    height: 10.5rem;
+    margin-top: 0;
+    border-radius: 10px;
+    justify-content: center;
+
+}
+
+h1{
+    text-align: center;
+   font-size:3rem ;
+}
+
+.lived{
+   
+    text-align: center;
+    font-size: 2rem;
+    margin: 1rem auto;
+   
+
+}
+
+
+nav{
+    display: flex;
+            font-size: 1rem;
+            margin: 1rem 3rem 0;
+            justify-content: space-around;
+            font-family: 'Franklin Gothic Medium',
+                'Arial Narrow',
+                Arial, sans-serif;
+                margin-bottom: 0;
+         
+}
+
+a{
+    text-decoration: none;
+    color: rgb(247, 247, 247);;
+}
+
+.early_life, .politics, .retierment{
+    font-family: "Raleway", sans-serif;
+    background-color: rgb(234, 243, 250);
+    border-radius: 6px;
+    box-shadow: 15px 10px 5px rgb(179, 183, 185);
+    margin-top: 10%;
+   
+}
+
+h2{
+    text-align: center;
+    font-size: 3rem;
+}
+
+body{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(90deg, black, white);
+}
+.caption{
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+
+}
+
+
+h3{
+   
+    font-size: 1.5rem;
+}
+#tribute-link{
+   display: block;
+    margin: 1.5em auto;
+    font-size: 1.3rem;
+    background-color:rgb(22, 22, 22) ;
+    text-align: center;
+    width: 30%;
+    padding: 5px;
+    border-radius: 1px;
+  
+
+}
