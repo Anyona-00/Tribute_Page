@@ -1,3 +1,4 @@
+/* this allows for smooth scrolling when link is clicked*/
 @media (prefers-reduced-motion: no-preference) {
     * {
       scroll-behavior: smooth;
@@ -53,6 +54,9 @@ nav{
                 margin-bottom: 0;
          
 }
+#speaker{
+    color: rgb(204, 203, 203);
+}
 
 a{
     text-decoration: none;
@@ -65,6 +69,7 @@ a{
     border-radius: 6px;
     box-shadow: 15px 10px 5px rgb(179, 183, 185);
     margin-top: 10%;
+    justify-content: center;
    
 }
 
@@ -101,4 +106,10 @@ h3{
     border-radius: 1px;
   
 
+}
+
+@media(max-width:600px){
+    body{
+        width:90%;
+    }
 }
