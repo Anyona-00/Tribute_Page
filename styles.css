@@ -13,7 +13,7 @@
     align-items: center;
   border-radius: 300px;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 0.625rem;
 }
 
 
@@ -107,6 +107,7 @@ h3{
   
 
 }
+
 
 @media(max-width:600px){
     body{
