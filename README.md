@@ -7,7 +7,7 @@ This repository contains a simple HTML/CSS tribute webpage dedicated to Nelson M
 
 - **Header**: Contains the title "Nelson Mandela," birth and passing years, and navigation links to different sections.
 - **Image and Quote**: Displays an image of Nelson Mandela and an inspirational quote.
-- **Biography Sections**: Divided into Early Life, Politics & Leadership, and Retirement, offering insights into Mandela's life.
+- **Biography Sections**: Divided into Early Life, Politics and leadership, and Retirement, offering insights into Mandela's life.
 - **Read More Link**: Includes a link to the official Nelson Mandela Foundation website for additional information.
 
 ## Quick Start
